@@ -1,0 +1,6 @@
+# Ignore virtual environments
+mdeploy_venv/
+# Ignore image datasets with huge file sizes
+datasets/
+# Ignore model files with huge file sizes
+models/
